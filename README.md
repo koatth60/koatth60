@@ -21,7 +21,7 @@ I bring a problem-solving mindset, clean code practices, and strong communicatio
 
 ### 📞 Contact
 ✉️ Email: koatth60@gmail.com
-💼 Portfolio: [Your Portfolio Link]  
+💼 Portfolio: https://kuriarare.github.io/porfolio/
 💼 LinkedIn: [Your LinkedIn Profile]
 
 ### 🚀 Current Project
