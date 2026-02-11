@@ -20,7 +20,7 @@ I bring a problem-solving mindset, clean code practices, and strong communicatio
 🌍 Based in Bogota, Colombia
 
 ### 📞 Contact
-✉️ Email: cm33673@gmail.com  
+✉️ Email: koatth60@gmail.com
 💼 Portfolio: [Your Portfolio Link]  
 💼 LinkedIn: [Your LinkedIn Profile]
 
