@@ -16,6 +16,7 @@ I take full ownership of projects — backend, frontend, infrastructure, and mai
 |---|---|---|
 | [Lingolandias Academy](https://lingolandias.com) | Language learning platform · 500+ users · Built solo | React, NestJS, PostgreSQL, Socket.IO, Docker |
 | [Lingolandias Website](https://lingolandias.net) | Public marketing site with language proficiency quiz | React, Tailwind, i18n |
+| [Grillr](https://grillr-seven.vercel.app) | AI mock interview platform · Claude-powered questions & feedback · Stripe billing | Next.js, TypeScript, Prisma, PostgreSQL, Claude AI, Stripe |
 | Handy Pro | Service marketplace with AI chatbot and Stripe payments | Next.js, NestJS, Socket.IO, Stripe |
 
 ---
