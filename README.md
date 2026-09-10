@@ -4,7 +4,7 @@
 
 I build full-stack web platforms from scratch and take them to production.
 
-Currently maintaining **[Lingolandias Academy](https://lingolandias.com)** — a live language learning platform I designed and built solo, serving **500+ active users**. The platform supports live one-on-one video classes, real-time chat, class calendar management, AWS S3 file storage, and role-based access for admins, teachers, and students. Deployed on a VPS with Docker, Nginx, and SSL.
+Founder of **[Zaqi Solutions](https://vendiahub.online)** — a software studio building custom software, websites, and **[Onix](https://vendiahub.online)**, our WhatsApp AI sales-assistant SaaS. Also currently maintaining **[Lingolandias Academy](https://lingolandias.com)** — a live language learning platform I designed and built solo, serving **500+ active users**. The platform supports live one-on-one video classes, real-time chat, class calendar management, AWS S3 file storage, and role-based access for admins, teachers, and students. Deployed on a VPS with Docker, Nginx, and SSL.
 
 I take full ownership of projects — backend, frontend, infrastructure, and maintenance. I know how to ship.
 
@@ -14,6 +14,7 @@ I take full ownership of projects — backend, frontend, infrastructure, and mai
 
 | Project | Description | Stack |
 |---|---|---|
+| [Onix](https://vendiahub.online) — by Zaqi Solutions | WhatsApp AI sales assistant SaaS · multi-tenant · answers customers with real catalog data | Node.js, TypeScript, Express, PostgreSQL, Prisma, DeepSeek AI, WhatsApp Cloud API |
 | [Lingolandias Academy](https://lingolandias.com) | Language learning platform · 500+ users · Built solo | React, NestJS, PostgreSQL, Socket.IO, Docker |
 | [Lingolandias Website](https://lingolandias.net) | Public marketing site with language proficiency quiz | React, Tailwind, i18n |
 | [Grillr](https://grillr-seven.vercel.app) | AI mock interview platform · Claude-powered questions & feedback · Stripe billing | Next.js, TypeScript, Prisma, PostgreSQL, Claude AI, Stripe |
@@ -48,6 +49,7 @@ I take full ownership of projects — backend, frontend, infrastructure, and mai
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
