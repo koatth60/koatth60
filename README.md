@@ -4,7 +4,7 @@
 
 I design the whole system: database, backend, agent, UI and deployment. Then I keep it running.
 
-I founded **Zaqi Solutions**, a small software studio. There I build **Onix**, a multi-tenant WhatsApp AI sales agent, and a **real-time voice agent** for incident reporting at an enterprise client. I also built and maintain **[Lingolandias Academy](https://lingolandias.com)** solo. It is a language-learning platform with **500+ active users**.
+I founded **[Zaqi Solutions](https://zaqisolutions.com)**, a small software studio. There I build **Onix**, a multi-tenant WhatsApp AI sales agent, and a **real-time voice agent** for incident reporting at an enterprise client. I also built and maintain **[Lingolandias Academy](https://lingolandias.com)** solo. It is a language-learning platform with **200+ active users**.
 
 🌐 **Portfolio:** [koatth60.github.io](https://koatth60.github.io) · 📍 Bogotá, Colombia · Open to remote roles worldwide
 
@@ -25,10 +25,10 @@ Both repositories are private. I'm happy to walk through the code in an intervie
 
 | Project | Description | Stack |
 |---|---|---|
-| [Lingolandias Academy](https://lingolandias.com) | Learning platform with 500+ users, built solo. Live video classes, real-time chat, calendar and role-based access. | React, NestJS, PostgreSQL, Socket.IO, Jitsi, AWS S3, Docker, Nginx |
+| [Lingolandias Academy](https://lingolandias.com) | Learning platform with 200+ users, built solo. Live classes on LiveKit, a built-in LMS, real-time chat, scheduling and a desktop app. | React, NestJS, PostgreSQL, Socket.IO, LiveKit, Electron, Docker, Nginx |
 | [Grillr](https://grillr-seven.vercel.app) · [front](https://github.com/koatth60/grillr) · [API](https://github.com/koatth60/grillr-back) | AI mock interviews: Claude writes questions tailored to the job and scores each answer. Stripe billing. | Next.js, TypeScript, NestJS, Prisma, PostgreSQL, Claude API, Stripe |
 | [Lingolandias Website](https://lingolandias.net) · [code](https://github.com/koatth60/lingolandias) | Marketing site in 3 languages with a language-level quiz | React, Tailwind, i18next, Express |
-| Handy Pro · [API](https://github.com/koatth60/handypro-back) · [front](https://github.com/koatth60/handypro-frontend) | Services marketplace built by a team of 6. I built the real-time chat, the Stripe payments and the data preload. | NestJS, TypeORM, PostgreSQL, Socket.IO, Stripe, Next.js |
+| [Zaqi Solutions](https://zaqisolutions.com) | The software studio I founded: Onix, voice agents, websites and custom software for businesses in Colombia. | Python, React, Docker |
 
 ---
 
@@ -86,4 +86,4 @@ Both repositories are private. I'm happy to walk through the code in an intervie
 
 ## 📍 Contact
 
-📧 koatth60@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-mendoza-060097225/) · 🌐 [koatth60.github.io](https://koatth60.github.io)
+📧 koatth60@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-mendoza-8299663b7/) · 🌐 [koatth60.github.io](https://koatth60.github.io)
